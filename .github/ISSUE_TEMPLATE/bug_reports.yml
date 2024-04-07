@@ -9,7 +9,6 @@ body:
       multiple: false
       options:
         - Desertopolis
-        - Test
         - Stoneopolis
         - Aeropolis
         - Omniopolis
