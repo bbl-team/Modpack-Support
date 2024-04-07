@@ -9,15 +9,16 @@ assignees: ''
 
 **Describe the bug**
   - type: dropdown
-    id: browsers
+    id: version
     attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
+      label: Version
+      description: What version of our software are you running?
       options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+        - 1.0.2 (Default)
+        - 1.0.3 (Edge)
+      default: 0
+    validations:
+      required: true
     
 **To Reproduce**
 Steps to reproduce the behavior:
