@@ -23,7 +23,7 @@ body:
   - type: input
     id: version
     attributes:
-      label: Modpack Verstion
+      label: Version
       placeholder: Use /modpack version in game or version on curseforge
     validations:
       required: true
