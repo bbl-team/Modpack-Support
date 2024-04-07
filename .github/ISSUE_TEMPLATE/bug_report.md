@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 **Describe the bug**
+body:
   - type: dropdown
     id: ftb-modpack-dropdown
     attributes:
