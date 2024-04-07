@@ -8,6 +8,10 @@ body:
       description: What modpack are you having an issue with?
       multiple: false
       options:
+        - Desertopolis
+        - Stoneopolis
+        - Aeropolis
+        - Omniopolis
         - Techopolis
         - Techopolis 2
         - Skyopolis 
