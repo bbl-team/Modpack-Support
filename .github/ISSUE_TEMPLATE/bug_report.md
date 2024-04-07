@@ -8,8 +8,17 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
-
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What browsers are you seeing the problem on?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+    
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
