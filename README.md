@@ -1,4 +1,6 @@
 # Modpack-Support
+Total Downloads ![](http://cf.way2muchnoise.eu/author/benbenlaw.svg)
+
 <img width="300" alt="BH_BBL_Logo" src="https://github.com/bbl-team/Modpack-Support/assets/42780877/ebd0c9df-533e-443c-ba8f-09d4d3e9672c">
 
 Report bugs, issue and feature requests for BBL Modpacks
@@ -19,6 +21,4 @@ Report bugs, issue and feature requests for BBL Modpacks
 
 *Supported = Still in acvive development by benbenlaw
 
-Total Downloads ![](http://cf.way2muchnoise.eu/author/benbenlaw.svg)
-Total Packs ![](http://cf.way2muchnoise.eu/packs/783236.svg)
-Total Packs ![](https://cf.way2muchnoise.eu/packs/240630.svg)
+
