@@ -4,11 +4,16 @@
 Report bugs, issue and feature requests for BBL Modpacks
 
 | Modpack | Supported | Status |
-| --- | --- |
+| --- | --- | --- |
 | Seaopolis | LTS | Released | 
 | Seaopolis 2 | LTS | Released | 
 | Desertopolis | LTS | Released | 
 | Stoneopolis | Supported | BETA | 
+| Aeropolis | LTS | Released | 
+| Omniopolis | LTS | Released | 
+| Techopolis | LTS | Released | 
+| Techopolis 2 | LTS | Released | 
+| Skyopolis 1-5 | LTS | Released | 
 
-
-*LTS = Long Term Support
+*LTS = Long Term Support provided by the Modpack Maintainer Team 
+*Supported = Still in acvive development by benbenlaw
