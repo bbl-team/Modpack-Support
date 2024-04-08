@@ -18,4 +18,5 @@ Report bugs, issue and feature requests for BBL Modpacks
 *LTS = Long Term Support provided by the Modpack Maintainer Team 
 
 *Supported = Still in acvive development by benbenlaw
-[![](http://cf.way2muchnoise.eu/author/benbenlaw.svg)]
+
+![](http://cf.way2muchnoise.eu/author/benbenlaw.svg)
