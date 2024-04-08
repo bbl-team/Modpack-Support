@@ -21,3 +21,4 @@ Report bugs, issue and feature requests for BBL Modpacks
 
 Total Downloads ![](http://cf.way2muchnoise.eu/author/benbenlaw.svg)
 Total Packs ![](http://cf.way2muchnoise.eu/packs/783236.svg)
+Total Packs ![](https://cf.way2muchnoise.eu/packs/240630.svg)
