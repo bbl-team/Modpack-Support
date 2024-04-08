@@ -3,7 +3,12 @@
 
 Report bugs, issue and feature requests for BBL Modpacks
 
-| Command | Description |
+| Modpack | Supported | Status |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Seaopolis | LTS | Released | 
+| Seaopolis 2 | LTS | Released | 
+| Desertopolis | LTS | Released | 
+| Stoneopolis | Supported | BETA | 
+
+
+*LTS = Long Term Support
