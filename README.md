@@ -20,3 +20,4 @@ Report bugs, issue and feature requests for BBL Modpacks
 *Supported = Still in acvive development by benbenlaw
 
 Total Downloads ![](http://cf.way2muchnoise.eu/author/benbenlaw.svg)
+Total Downloads ![](http://cf.way2muchnoise.eu/project/seaopolis.svg)
