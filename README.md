@@ -9,8 +9,9 @@ Report bugs, issue and feature requests for BBL Modpacks
 | --- | --- | --- |
 | Seaopolis | LTS | Released | 
 | Seaopolis 2 | LTS | Released | 
+| Seaopolis Submerged | Supported | Beta
 | Desertopolis | LTS | Released | 
-| Stoneopolis | Supported | BETA | 
+| Stoneopolis | Supported | Released | 
 | Aeropolis | LTS | Released | 
 | Omniopolis | LTS | Released | 
 | Techopolis | LTS | Released | 
