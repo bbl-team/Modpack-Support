@@ -8,6 +8,8 @@ body:
       description: What modpack are you having an issue with?
       multiple: false
       options:
+        - Skyopolis Evolved
+        - Opolis Inc
         - Submerged
         - Community Opolis
         - Desertopolis
