@@ -8,6 +8,7 @@ body:
       description: What modpack are you having an issue with?
       multiple: false
       options:
+        - Techopolis 3
         - Skyopolis Evolved
         - Opolis Inc
         - Submerged
